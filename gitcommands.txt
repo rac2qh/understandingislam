@@ -3,3 +3,12 @@ whenever we make a change to a file we want to
 git add filename
 git commit -m "message"
 git push origin main
+
+- create new branch by git checkout -b branch name
+- use git branch to verify 
+- after you make changes you will do git add . 
+- git commit 
+- git push orign frontend
+
+use git checkout main to go back to main branch and we will use 
+git merge frontend when we are ready 
