@@ -1,0 +1,2 @@
+Flask (Python): Backend to handle routing, authentication (Google OAuth), 
+serving the quiz questions, and interacting with the database.
