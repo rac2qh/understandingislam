@@ -11,7 +11,7 @@ This project is a web-based quiz platform that tests users on various Islamic co
 - Real-time scoring and feedback
 
 ## Technologies Used
-- Frontend: React
+- Frontend: React (Next.js - using this tutorial https://nextjs.org/learn/dashboard-app/optimizing-fonts-images
 - Backend: Flask (Python)
 - Database: SQLite (for now)
 
